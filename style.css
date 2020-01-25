@@ -1,0 +1,37 @@
+
+.navbar-custom{
+    background-color:#01baef;
+    font-size: larger;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+/** Adapted from https://www.w3docs.com/snippets/css/how-to-create-a-multicolor-text-in-html-and-css.html */
+.multicolortext {
+    background-image: linear-gradient(to right, #D65BCA, #01baef, #20bf55);   
+    -webkit-background-clip: text;
+    -moz-background-clip: text; 
+    background-clip: text;
+    color: transparent;
+}
+
+.jumbotron {
+    background-color: rgb(248, 247, 247);
+    border-radius: 0%;
+    border-bottom-color: black;
+
+}
+
+.display-4{
+    text-align: center;
+}
+
+.container .row .col .sectionImages img{
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    
+    
+}
