@@ -1,10 +1,19 @@
 
-.navbar-custom{
+.navbar-custom .active  {
+    font-weight: bold;
+    
+}
+
+.navbar-custom {
     background-color:#01baef;
     font-size: larger;
 }
 
-.nav-link {
+.nav-link:hover  {
+    color: black !important;
+}
+
+.nav-link  {
     color: #fff !important;
 }
 
@@ -55,5 +64,13 @@
     margin-left: auto;
     margin-right: auto;
     width: 80%;
+    text-align: center;
+  }
+
+  .center4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
     text-align: center;
   }
