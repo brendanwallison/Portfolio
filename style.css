@@ -28,10 +28,32 @@
     text-align: center;
 }
 
-.container .row .col .sectionImages img{
+.sectionImages img{
     display: block;
     max-width: 100%;
     max-height: 100%;
-    
-    
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    text-align: center;
+  }
+
+  .center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  .center3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+  }
