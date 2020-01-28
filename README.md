@@ -1,3 +1,3 @@
 # Portfolio
 
-Professional website of Brendan Allison: Computational Ecologist
+Professional website of Brendan Allison. Focused on career as a Computational Ecologist
